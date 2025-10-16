@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/manoj/04_practice_projects/NetworkSecurity/mlruns/0/models/m-770b717d0e2e470c8dad4f36185c2ac5/artifacts
+creation_timestamp: 1760351668317
+experiment_id: '0'
+last_updated_timestamp: 1760351679771
+model_id: m-770b717d0e2e470c8dad4f36185c2ac5
+model_type: null
+name: model
+source_run_id: 82a1e85bffaf4f958ed74b489c970809
+status: 2
+status_message: null
